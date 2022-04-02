@@ -1,0 +1,24 @@
+{
+  "name": "vuepressblog",
+  "version": "1.0.0",
+  "description": "xialb-vuepressBlog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs --open",
+    "docs:build": "vuepress build docs",
+    "docs:deploy": "bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xialb/vuepressBlog.git"
+  },
+  "author": "xialiangbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xialb/vuepressBlog/issues"
+  },
+  "homepage": "https://github.com/xialb/vuepressBlog#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.37"
+  }
+}
