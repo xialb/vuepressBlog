@@ -87,7 +87,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         navbar: [
           {
             text: 'about',
-            link: '/about'
+            link: '/en/about'
           },
           {
             text: 'BLOG',
